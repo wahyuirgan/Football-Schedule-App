@@ -36,6 +36,8 @@ Fitur yang harus ada pada aplikasi:
   Menambahkan fitur untuk melakukan pencarian tim.
 - Tim Favorite
   Menambahkan fitur untuk menampung tim favorite dengan kriteria: 
-  > Dapat menambahkan tim ke database favorite.
-  > Dapat menghapus tim dari database favorite.
-  > Menampilkan daftar tim favorite. 
+  <ol type="bullet">
+  <li>Dapat menambahkan tim ke database favorite.</li>
+  <li>Dapat menghapus tim dari database favorite.</li>
+  <li>Menampilkan daftar tim favorite.</li>
+  </ol>
