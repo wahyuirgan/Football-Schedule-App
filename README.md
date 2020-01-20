@@ -16,7 +16,7 @@ Fitur yang harus ada pada aplikasi:
   Fitur untuk melakukan pencarian pertandingan.
 - Pertandingan Favorite
   Fitur untuk menampung pertandingan favorite dengan kriteria: 
-  <ol type="bullet">
+  <ol type="1">
   <li>Dapat menambahkan pertandingan ke database favorite.</li>
   <li>Dapat menghapus pertandingan dari database favorite.</li>
   <li>Menampilkan daftar pertandingan favorite.</li>
@@ -36,7 +36,7 @@ Fitur yang harus ada pada aplikasi:
   Menambahkan fitur untuk melakukan pencarian tim.
 - Tim Favorite
   Menambahkan fitur untuk menampung tim favorite dengan kriteria: 
-  <ol type="bullet">
+  <ol type="1">
   <li>Dapat menambahkan tim ke database favorite.</li>
   <li>Dapat menghapus tim dari database favorite.</li>
   <li>Menampilkan daftar tim favorite.</li>
