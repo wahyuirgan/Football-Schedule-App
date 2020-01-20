@@ -16,9 +16,11 @@ Fitur yang harus ada pada aplikasi:
   Fitur untuk melakukan pencarian pertandingan.
 - Pertandingan Favorite
   Fitur untuk menampung pertandingan favorite dengan kriteria: 
-  > Dapat menambahkan pertandingan ke database favorite.
-  > Dapat menghapus pertandingan dari database favorite.
-  > Menampilkan daftar pertandingan favorite.
+  <ol type="bullet">
+  <li>Dapat menambahkan pertandingan ke database favorite.</li>
+  <li>Dapat menghapus pertandingan dari database favorite.</li>
+  <li>Menampilkan daftar pertandingan favorite.</li>
+  </ol>
 - Unit Test
   Menerapkan unit test pada semua fungsi untuk mendapatkan data pertandingan dari API (detail liga, next Match, previous match, detail
   match, search match).
