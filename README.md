@@ -41,3 +41,7 @@ Fitur yang harus ada pada aplikasi:
   <li>Dapat menghapus tim dari database favorite.</li>
   <li>Menampilkan daftar tim favorite.</li>
   </ol>
+
+| col 1      | col 2      |
+|------------|-------------|
+| <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/6.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/4.png" width="250"> |
