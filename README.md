@@ -41,9 +41,28 @@ Fitur yang harus ada pada aplikasi:
   <li>Dapat menghapus tim dari database favorite.</li>
   <li>Menampilkan daftar tim favorite.</li>
   </ol>
-
-|    Splash Screen   |    Beranda   |    Beranda   |    Tabel Klasemen    |
-|--------------------|--------------|--------------|----------------------|
-| <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/6.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/4.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/3.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/7.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/2.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/5.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/1.png" width="250"> |
-
-|    <b><center>Halaman Tim</b></center>    |    <b><center>Halaman Favorit Kosong</b></center>    |    Halaman Favorit Berisi    |
+  
+  <table>
+  <tr>
+    <th>Splash Screen</th>
+    <th>Beranda</th>
+    <th>Beranda</th>
+    <th>Tabel Klasemen</th>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/6.png" width="250"></td>
+    <td><img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/4.png" width="250"></td>
+    <td><img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/3.png" width="250"></td>
+    <td><img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/7.png" width="250"></td>
+  </tr>
+  <tr>
+    <th>Halaman Tim</th>
+    <th>Halaman Favorit Kosong</th>
+    <th>Halaman Favorit Berisi</th>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/2.png" width="250"></td>
+    <td><img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/5.png" width="250"></td>
+    <td><img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/1.png" width="250"></td>
+  </tr>
+  </table>
