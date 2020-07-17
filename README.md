@@ -43,7 +43,7 @@ Fitur yang harus ada pada aplikasi:
   </ol>
   
   <table>
-  <tr>
+  <tr align="center">
     <th>Splash Screen</th>
     <th>Beranda</th>
     <th>Beranda</th>
@@ -55,7 +55,7 @@ Fitur yang harus ada pada aplikasi:
     <td><img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/3.png" width="250"></td>
     <td><img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/7.png" width="250"></td>
   </tr>
-  <tr>
+  <tr align="center">
     <th>Halaman Tim</th>
     <th>Halaman Favorit Kosong</th>
     <th>Halaman Favorit Berisi</th>
