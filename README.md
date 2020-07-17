@@ -42,9 +42,6 @@ Fitur yang harus ada pada aplikasi:
   <li>Menampilkan daftar tim favorite.</li>
   </ol>
 
-|    Splash Screen   |    Beranda   |    Beranda   |    Tabel Klasemen    |
-|--------------------|--------------|--------------|----------------------|
-| <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/6.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/4.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/3.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/7.png" width="250"> |
-|    Halaman Tim    |    Halaman Favorit Kosong    |    Halaman Favorit Berisi    |
-|-------------------|------------------------------|------------------------------|
-| <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/2.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/5.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/1.png" width="250"> |
+|    Splash Screen   |    Beranda   |    Beranda   |    Tabel Klasemen    |    Halaman Tim    |    Halaman Favorit Kosong    |    Halaman Favorit Berisi    |
+|--------------------|--------------|--------------|----------------------|-------------------|------------------------------|------------------------------|
+| <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/6.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/4.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/3.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/7.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/2.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/5.png" width="250"> | <img src="https://raw.githubusercontent.com/wahyuirgan/Football-Schedule-App/master/screenshoot/1.png" width="250"> |
